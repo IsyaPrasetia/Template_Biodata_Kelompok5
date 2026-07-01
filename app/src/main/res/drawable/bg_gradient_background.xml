@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base dark gradient -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#0B1120"
+                android:endColor="#111827"
+                android:angle="135" />
+        </shape>
+    </item>
+    <!-- Ambient blue glow from bottom-right -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#1E3A5F"
+                android:endColor="#00000000"
+                android:angle="315" />
+        </shape>
+    </item>
+    <!-- Subtle purple ambient from top-left -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#1A1B2F"
+                android:endColor="#00000000"
+                android:angle="135" />
+        </shape>
+    </item>
+</layer-list>

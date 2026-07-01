@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TugasAkhirKelompok5MC" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        <item name="android:statusBarColor">@color/bg_base_start</item>
+        <item name="android:navigationBarColor">@color/bg_base_start</item>
+    </style>
+
+    <style name="Theme.TugasAkhirKelompok5MC" parent="Base.Theme.TugasAkhirKelompok5MC" />
+</resources>

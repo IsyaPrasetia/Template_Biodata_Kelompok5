@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Button label text -->
+    <style name="ButtonLabel">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/text_on_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_medium</item>
+    </style>
+
+    <style name="ButtonLabelSmall">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/text_on_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_small</item>
+    </style>
+
+    <!-- Section title text -->
+    <style name="SectionTitle">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Section content text -->
+    <style name="SectionContent">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">@dimen/text_xsmall</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <!-- Education item text -->
+    <style name="EducationItem">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_xsmall</item>
+    </style>
+
+    <!-- Gradient button container -->
+    <style name="GradientButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_large</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+    </style>
+</resources>

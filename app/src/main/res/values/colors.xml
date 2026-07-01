@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Background layers -->
+    <color name="bg_base_start">#0B1120</color>
+    <color name="bg_base_end">#111827</color>
+    <color name="bg_ambient_blue">#1E3A5F</color>
+    <color name="bg_ambient_purple">#1A1B2F</color>
+
+    <!-- Primary -->
+    <color name="primary_start">#3B82F6</color>
+    <color name="primary_end">#1D4ED8</color>
+    <color name="primary">#3B82F6</color>
+    <color name="primary_dark">#1D4ED8</color>
+
+    <!-- Instagram -->
+    <color name="instagram_start">#E1306C</color>
+    <color name="instagram_end">#F77737</color>
+
+    <!-- Website -->
+    <color name="website_start">#059669</color>
+    <color name="website_end">#047857</color>
+
+    <!-- Email -->
+    <color name="email_start">#6366F1</color>
+    <color name="email_end">#4F46E5</color>
+
+    <!-- GitHub -->
+    <color name="github_start">#374151</color>
+    <color name="github_end">#1F2937</color>
+
+    <!-- Exit -->
+    <color name="exit_start">#EF4444</color>
+    <color name="exit_end">#DC2626</color>
+
+    <!-- Dark accent -->
+    <color name="dark_accent_start">#1E293B</color>
+    <color name="dark_accent_end">#334155</color>
+    <color name="dark_accent">#1E293B</color>
+
+    <!-- Glass card -->
+    <color name="glass_card_bg">#F0FFFFFF</color>
+    <color name="glass_section_bg">#E8FFFFFF</color>
+    <color name="glass_border">#40FFFFFF</color>
+    <color name="glass_border_light">#30FFFFFF</color>
+
+    <!-- TikTok -->
+    <color name="tiktok_start">#29B6F6</color>
+    <color name="tiktok_end">#0288D1</color>
+    <color name="tiktok_glow">#4029B6F6</color>
+
+    <!-- White card -->
+    <color name="white_card">#F8FAFC</color>
+    <color name="white_card_text">#1E293B</color>
+
+    <!-- Modal -->
+    <color name="modal_header">#1E293B</color>
+    <color name="modal_item_bg">#F0F8FAFC</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_alamat">#B0C4DE</color>
+</resources>

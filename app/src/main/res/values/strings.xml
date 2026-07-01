@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasAkhirKelompok5MC</string>
+
+    <!-- Main Menu -->
+    <string name="info_title">PROJECT MOBILE COMPUTING</string>
+    <string name="info_subtitle">Dibuat untuk memenuhi kriteria penilaian matkul mobile computing yang di ampu pada semester 4 ini</string>
+    <string name="btn_dev1">Mohammad Isya Prasetia</string>
+    <string name="btn_dev2">Pramudya Nur Syachfiartha Fuady</string>
+    <string name="btn_dev3">Sayla Rizqiana Mazied</string>
+    <string name="btn_instagram">Instagram</string>
+    <string name="btn_exit">Keluar</string>
+    <string name="class_ig">https://www.instagram.com/codercircle_?igsh=ZHZ0dHJ5d2w1djMz&amp;utm_source=qr</string>
+
+    <!-- Developer Section Titles -->
+    <string name="section_biodata">Biodata</string>
+    <string name="section_pendidikan">Riwayat Pendidikan</string>
+    <string name="section_aktivitas">Aktivitas Harian</string>
+
+    <!-- Detail Page v2 -->
+    <string name="btn_back">Back</string>
+    <string name="btn_kembali">Kembali</string>
+    <string name="btn_github">GitHub</string>
+    <string name="clock_label">Jam</string>
+    <string name="ig_label">IG</string>
+    <string name="tiktok_label">TikTok</string>
+    <string name="modal_header">Dan Lain Lain</string>
+    <string name="modal_content">Riwayat Pendidikan &amp; Aktivitas Harian</string>
+
+    <!-- Developer 1 -->
+    <string name="dev1_name">Mohammad Isya Prasetia</string>
+    <string name="dev1_alamat">Perum Pondok Arum Blok A13 No.9</string>
+    <string name="dev1_bio">Mahasiswa Aktif di Universitas Yatsi Madani, Program studi Ilmu Komputer Semester 4, Aktif dalam berbagai aktivitas baik secara organisasian magang, ataupun freelance.</string>
+    <string name="dev1_sd">SDN RAWAMANGUN 01 PAGI</string>
+    <string name="dev1_smp">SMPS KSATRYA Jakarta Pusat</string>
+    <string name="dev1_sma">SMAN 4 KOTA TANGERANG</string>
+    <string name="dev1_kuliah">UNIVERSITAS YATSI MADANI</string>
+    <string name="dev1_aktivitas">Kuliah di program studi ilmu komputer, menjadi bagian dari Dewan Perwakilan Mahasiswa Universitas Yatsi Madani, Sedang melakukan magang di sebuah perusahaan menjadi bagian IT Support dan QC, aktif freelance sebagai editor video, dan juga IT Support.</string>
+    <string name="dev1_ig">https://www.instagram.com/isya_prasetia</string>
+    <string name="dev1_tiktok">https://www.tiktok.com/@isya_prasetiaa</string>
+    <string name="dev1_github">https://github.com/IsyaPrasetia</string>
+
+    <!-- Developer 2 -->
+    <string name="dev2_name">Pramudya Nur Syachfiartha Fuady</string>
+    <string name="dev2_alamat">Jl. Raya Mauk, Tegal Kunir Kidul, Mauk, Kab. Tangerang, Banten</string>
+    <string name="dev2_bio">Mahasiswa aktif semester 4 di Universitas Yatsi Madani Tangerang, Fakultas Teknologi dan Bisnis, Prodi Ilmu Komputer.</string>
+    <string name="dev2_sd">SD Negri Karolina</string>
+    <string name="dev2_smp">SMPit Daarul Mukhtarin</string>
+    <string name="dev2_sma">SMK YANUBA</string>
+    <string name="dev2_kuliah">Universitas Yatsi Madani</string>
+    <string name="dev2_aktivitas">Saat ini, saya adalah mahasiswa semester 4 prodi Ilmu Komputer yang aktif mengembangkan kompetensi akademis dan bergabung di salah satu organisasi internal yang ada di kampus, saya juga membuka usaha parfum decant di stadion benteng kota tangerang untuk mengisi waktu luang saya selagi tidak ada perkuliahan dan di organisasi.</string>
+    <string name="dev2_ig">https://www.instagram.com/syachfiartha_?igsh=MTV1YjJwNWUwanR2Ng==</string>
+    <string name="dev2_tiktok">https://www.tiktok.com/@prmdynr_sychfrth?_r=1&amp;_t=ZS-97T0a9mvHNd</string>
+
+    <!-- Developer 3 -->
+    <string name="dev3_name">Sayla Rizqiana Mazied</string>
+    <string name="dev3_alamat">Jl. Arya Santika No.36, RT/RW 03/03, Kec. Karawaci, Kota Tangerang</string>
+    <string name="dev3_bio">Mahasiswa aktif semester 4 di Universitas Yatsi Madani Tangerang, Fakultas Teknologi dan Bisnis, Prodi Ilmu Komputer.</string>
+    <string name="dev3_sd">SD Negri Bugel 1</string>
+    <string name="dev3_smp">MTS Al Azhaar Ummu Suwanah</string>
+    <string name="dev3_sma">MA Al Azhaar Ummu Suwanah</string>
+    <string name="dev3_kuliah">Universitas Yatsi Madani</string>
+    <string name="dev3_aktivitas">Saat ini, saya adalah mahasiswa semester 4 Jurusan Ilmu Komputer yang aktif mengembangkan kompetensi akademis sekaligus kepemimpinan melalui Dewan Perwakilan Mahasiswa. Untuk menyelaraskan teori dan praktik, saya juga sedang menjalani program magang di salah satu perusahaan Teknologi Jaringan.</string>
+    <string name="dev3_ig">https://www.instagram.com/syalalarzqn_?igsh=aDh6dnJvdGR3c2sx</string>
+    <string name="dev3_tiktok">https://www.tiktok.com/@syalalarzqn_</string>
+</resources>
